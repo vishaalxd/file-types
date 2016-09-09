@@ -1,0 +1,180 @@
+
+.home{
+	/*background-color: #3f5e5a; /*Bad*/ 
+	background-color: #533a71;
+}
+
+.home h1 {
+	font-family: 'Anton', sans-serif;
+	/*color: #2FB366;*/
+	color: #2d2d2a;
+}
+.home p {
+	font-size: 16pt;
+	font-family: 'Chelsea Market' , cursive;
+	color:#fcfcfc;
+} 
+body {
+	background-color: #2d2d2a;
+	text-align:center;
+}
+p { 
+	color: #fcfcfc;
+	font-family: 'Chelsea Market';
+}
+
+.tweet{
+	background-repeat: no-repeat;
+	height: 36px;
+	
+}
+.meta{
+	color:#fcfcfc;
+	line-height: 150%;
+	margin:40px auto;
+	font-family: 'Chelsea Market' , cursive;
+
+}
+.meta a {
+	font-family: Ubuntu;
+	font-size:12pt;
+	text-decoration: none;	
+
+}
+.meta a:hover {
+/*color: #47e569;*/
+color:#fcfcfc;
+}	
+
+.vector-raster{
+		
+	display:inline-block;
+	background-color: #191516;
+	font-family: Ubuntu;
+	border-color: #555;
+	font-family: 14pt;
+
+}
+.vector-raster:hover {
+	color: #fcfcfc;
+	background-color: #333333;
+	font-family: Ubuntu;
+	border-color: #191516;
+
+}
+.s1 p {
+	display: inline-block;
+	color: #fcfcfc;	
+	/*color: #47e569;*/
+	font-family: 'Chelsea Market';
+	font-size: 14pt;
+}
+.s1{
+	text-align: left;
+	line-height: 25px;
+		background-color: #38423B;	/*Black olive*/
+}
+
+.brk {
+color: #47e569;
+background-color: #353831; /*Jet black*/
+}
+
+.d1 {
+	color: #47e569;
+	font-family: 'Chelsea Market';
+	font-size: 18pt;
+background-color: #353831; /*Jet black*/
+}
+.items{
+height:80%;
+
+}
+
+.sformat{
+
+	height: 180px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 0px;
+	display:block; 
+}
+.stxt{
+	padding-top: 10px;
+	font-size: 16pt;
+	background-color: #353831;
+	text-align: left;
+}
+
+
+.whereheading{
+	padding-left: 366px;
+}
+.wherejpg{
+	background-color: #14A085;	
+/*background-color: #3f5e5a;*/
+font-size: 16pt;
+font-family: 'Chelsea Market';
+text-align: left;
+padding-bottom: 20px;	
+padding-left: 240px;
+}
+
+.wherepng{
+background-color: #659C35;
+font-size: 16pt;
+font-family: 'Chelsea Market';
+text-align: left;
+padding-bottom: 20px;	
+padding-left: 240px;
+}
+
+.wheregif{
+background-color: #00afaf;
+font-size: 16pt;
+font-family: 'Chelsea Market';
+text-align: left;
+padding-bottom: 20px;	
+padding-left: 240px;
+}
+
+.wherepsd{
+background-color: #4771a5;
+font-size: 16pt;
+font-family: 'Chelsea Market';
+text-align: left;
+padding-bottom: 20px;	
+padding-left: 240px;
+}
+
+.whereeps{
+background-color: #ed8b40;
+font-size: 16pt;
+font-family: 'Chelsea Market';
+text-align: left;
+padding-bottom: 20px;	
+padding-left: 240px;
+}
+
+.whereai{
+background-color: #EAA700;
+font-size: 16pt;
+font-family: 'Chelsea Market';
+text-align: left;
+padding-bottom: 20px;	
+padding-left: 240px;
+}
+.wherepdf{
+background-color: #CC4B4C;
+font-size: 16pt;
+font-family: 'Chelsea Market';
+text-align: left;
+padding-bottom: 20px;	
+padding-left: 240px;
+}
+
+.ending{
+	padding-top:60px;
+	background-color: #533a71;
+	padding-bottom: 10px; 
+}
